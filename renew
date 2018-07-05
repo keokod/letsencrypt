@@ -10,5 +10,5 @@ mkdir .well-known/
 
 l'erreur doit changer !
 
-Attempting to renew cert from /etc/letsencrypt/renewal/ohkod.fr.conf produced an unexpected error: urn:acme:error:rateLimited :: There were too many requests of a given type :: Error creating new authz :: too many failed authorizations recently: see https://letsencrypt.org/docs/rate-limits/. Skipping.
+Attempting to renew cert from /etc/letsencrypt/renewal/keokod.fr.conf produced an unexpected error: urn:acme:error:rateLimited :: There were too many requests of a given type :: Error creating new authz :: too many failed authorizations recently: see https://letsencrypt.org/docs/rate-limits/. Skipping.
 
